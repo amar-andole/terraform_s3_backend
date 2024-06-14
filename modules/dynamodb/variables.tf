@@ -1,6 +1,6 @@
 variable "dynamodb_name" {
-    type = string
-    default = ""  
+    type = string 
+    default = ""
 }
 
 variable "hash_key" {
